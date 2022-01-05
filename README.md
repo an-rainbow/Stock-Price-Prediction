@@ -13,4 +13,5 @@ Documents and files uploaded.
 The CRC.pptx is included for the class design.
 Java classes
 Junit test file for predictor: check the data reading the predition with Fibonicci Sequence and one-increasing numbers.
-[StockView](https://github.com/an-rainbow/Stock-Price-Prediction/blob/main/data/StockView.png)
+
+![StockView](https://github.com/an-rainbow/Stock-Price-Prediction/blob/main/data/StockView.png)
